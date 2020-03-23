@@ -23,6 +23,6 @@
 
 #### Pre-Releases
 
-| PLATFORM | VERSION       | Release Type / Vendor           | Build String                     | REGION | TITLE ID   |
-|----------|---------------|---------------------------------|----------------------------------|--------|------------|
-| Xbox     | v153           | PHYSICAL REVIEW COPY FINAL CODE | Build 153 (Mar 31 2004 12:11:27) | SPA    |            |
+| PLATFORM | VERSION       | Release Type / Vendor              | Build String                     | REGION | TITLE ID   |
+|----------|---------------|------------------------------------|----------------------------------|--------|------------|
+| Xbox     | v153          | PHYSICAL INTERNAL COPY FINAL CODE  | Build 153 (Mar 31 2004 12:11:27) | SPA    |            |
